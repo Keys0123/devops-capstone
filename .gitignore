@@ -1,0 +1,26 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Node / Python / build artifacts
+node_modules/
+dist/
+build/
+
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+
+# Kubernetes
+.kube/
+kubeconfig
+
+# Docker
+docker-compose.override.yml
+.env
+
+# IDEs
+.vscode/
+.idea/

@@ -18,4 +18,4 @@ Deploy `microservices-demo` on AWS (EKS) with Terraform, Jenkins CI/CD, ECR, RDS
 1. Clone repo
 2. Install prerequisites: `awscli`, `terraform`, `kubectl`, `helm`, `docker`, `jenkins` (agent)
 3. Proceed with Terraform infra provisioning in `terraform/`.
-
+hdjje
